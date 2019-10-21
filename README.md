@@ -1,2 +1,2 @@
-# U2A web server
+# U2A web viewer
 Web viewer
