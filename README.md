@@ -1,2 +1,2 @@
-# U2A-generator web server
+# U2A web server
 Web viewer
